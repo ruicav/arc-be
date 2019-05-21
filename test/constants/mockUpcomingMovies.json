@@ -1,0 +1,409 @@
+{
+	"results": [{
+			"vote_count": 298,
+			"id": 458156,
+			"video": false,
+			"vote_average": 7.5,
+			"title": "John Wick: Chapter 5 – Parabellum",
+			"popularity": 563.584,
+			"poster_path": "/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg",
+			"original_language": "en",
+			"original_title": "John Wick: Chapter 3 – Parabellum",
+			"genre_ids": [
+				80,
+				28,
+				53
+			],
+			"backdrop_path": "/kcga7xuiQVqM9WHfWnAbidxU7hd.jpg",
+			"adult": false,
+			"overview": "Super-assassin John Wick returns with a $14 million price tag on his head and an army of bounty-hunting killers on his trail. After killing a member of the shadowy international assassin’s guild, the High Table, John Wick is excommunicado, but the world’s most ruthless hit men and women await his every turn.",
+			"release_date": "2019-05-15"
+		},
+		{
+			"vote_count": 693,
+			"id": 447404,
+			"video": false,
+			"vote_average": 7,
+			"title": "Pokémon Detective Pikachu",
+			"popularity": 219.774,
+			"poster_path": "/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg",
+			"original_language": "en",
+			"original_title": "Pokémon Detective Pikachu",
+			"genre_ids": [
+				9648,
+				10751,
+				35,
+				878,
+				28,
+				12,
+				16
+			],
+			"backdrop_path": "/nDP33LmQwNsnPv29GQazz59HjJI.jpg",
+			"adult": false,
+			"overview": "In a world where people collect pocket-size monsters (Pokémon) to do battle, a boy comes across an intelligent monster who seeks to be a detective.",
+			"release_date": "2019-05-03"
+		},
+		{
+			"vote_count": 79,
+			"id": 449562,
+			"video": false,
+			"vote_average": 6.1,
+			"title": "The Hustle",
+			"popularity": 116.759,
+			"poster_path": "/qibqW5Dnvqp4hcEnoTARbQgxwJy.jpg",
+			"original_language": "en",
+			"original_title": "The Hustle",
+			"genre_ids": [
+				35
+			],
+			"backdrop_path": "/s6awXOxTKYQLSktiIJfI3969dZH.jpg",
+			"adult": false,
+			"overview": "Two female scam artists, one low rent and the other high class, compete to swindle a naïve tech prodigy out of his fortune. A remake of the 1988 comedy \"Dirty Rotten Scoundrels.\"",
+			"release_date": "2019-05-09"
+		},
+		{
+			"vote_count": 19,
+			"id": 531309,
+			"video": false,
+			"vote_average": 5.2,
+			"title": "Brightburn",
+			"popularity": 115.035,
+			"poster_path": "/roslEbKdY0WSgYaB5KXvPKY0bXS.jpg",
+			"original_language": "en",
+			"original_title": "Brightburn",
+			"genre_ids": [
+				27,
+				878,
+				18,
+				53
+			],
+			"backdrop_path": "/uHEI6v8ApQusjbaRZ8o7WcLYeWb.jpg",
+			"adult": false,
+			"overview": "A child from another world crash-lands on Earth, but instead of becoming a hero to mankind, he is an evil little boy.",
+			"release_date": "2019-05-10"
+		},
+		{
+			"vote_count": 34,
+			"id": 420817,
+			"video": false,
+			"vote_average": 4.8,
+			"title": "Aladdin",
+			"popularity": 90.992,
+			"poster_path": "/yYWGCAerbVAHyfuGBCHKzWJdEtj.jpg",
+			"original_language": "en",
+			"original_title": "Aladdin",
+			"genre_ids": [
+				12,
+				14,
+				10402,
+				10749
+			],
+			"backdrop_path": "/v4yVTbbl8dE1UP2dWu5CLyaXOku.jpg",
+			"adult": false,
+			"overview": "A live-action retelling of the 1992 Disney film of the same name.",
+			"release_date": "2019-05-22"
+		},
+		{
+			"vote_count": 62,
+			"id": 526050,
+			"video": false,
+			"vote_average": 6,
+			"title": "Little",
+			"popularity": 76.879,
+			"poster_path": "/4MDB6jJl3U7xK1Gw64zIqt9pQA4.jpg",
+			"original_language": "en",
+			"original_title": "Little",
+			"genre_ids": [
+				35,
+				14
+			],
+			"backdrop_path": "/tmM78qRhpg0i2Cky8Q8hXKASOXY.jpg",
+			"adult": false,
+			"overview": "A woman receives the chance to relive the life of her younger self, at a point in her life when the pressures of adulthood become too much for her to bear.",
+			"release_date": "2019-04-04"
+		},
+		{
+			"vote_count": 10,
+			"id": 467956,
+			"video": false,
+			"vote_average": 7.3,
+			"title": "The Professor",
+			"popularity": 66.525,
+			"poster_path": "/cypBSinhGuQaZ7VuOmGtcKMp91G.jpg",
+			"original_language": "en",
+			"original_title": "The Professor",
+			"genre_ids": [
+				35,
+				18
+			],
+			"backdrop_path": "/dnFwUWT36xseF7LwT2PLkX7mbi0.jpg",
+			"adult": false,
+			"overview": "Richard, a world-weary college professor is given a life-changing diagnosis and decides to throw all pretense and conventions to the wind and live his life as boldly and freely as possible with a biting sense of humor, a reckless streak, and a touch of madness.",
+			"release_date": "2019-05-17"
+		},
+		{
+			"vote_count": 547,
+			"id": 457799,
+			"video": false,
+			"vote_average": 7,
+			"title": "Extremely Wicked, Shockingly Evil and Vile",
+			"popularity": 59.841,
+			"poster_path": "/zSuJ3r5zr5T26tTxyygHhgkUAIM.jpg",
+			"original_language": "en",
+			"original_title": "Extremely Wicked, Shockingly Evil and Vile",
+			"genre_ids": [
+				53,
+				80,
+				18,
+				36
+			],
+			"backdrop_path": "/5yXNf13ly6kFQSbI5BZRQlDhCib.jpg",
+			"adult": false,
+			"overview": "A chronicle of the crimes of Ted Bundy, from the perspective of his longtime girlfriend, Elizabeth Kloepfer, who refused to believe the truth about him for years.",
+			"release_date": "2019-05-02"
+		},
+		{
+			"vote_count": 6,
+			"id": 411144,
+			"video": false,
+			"vote_average": 5.3,
+			"title": "We Have Always Lived in the Castle",
+			"popularity": 56.525,
+			"poster_path": "/ejp1MQSlekBjH3bBJrBlWItpmQW.jpg",
+			"original_language": "en",
+			"original_title": "We Have Always Lived in the Castle",
+			"genre_ids": [
+				18,
+				9648,
+				53
+			],
+			"backdrop_path": "/fFI2MuuA2gRRFuYVKMdVWojPmHW.jpg",
+			"adult": false,
+			"overview": "An isolated family, having already lost four members to poisoning, uses rituals and talismans to keep itself away from hostile townspeople.",
+			"release_date": "2019-05-17"
+		},
+		{
+			"vote_count": 71,
+			"id": 471506,
+			"video": false,
+			"vote_average": 6.1,
+			"title": "Greta",
+			"popularity": 43.347,
+			"poster_path": "/9hBpFyJ3pGdupXbaC2L7nGvLMBn.jpg",
+			"original_language": "en",
+			"original_title": "Greta",
+			"genre_ids": [
+				53,
+				18,
+				9648
+			],
+			"backdrop_path": "/n67gpLtNFXqpGkM2ZdQoPLjTnI.jpg",
+			"adult": false,
+			"overview": "A young woman returns an elderly widow’s lost purse, leading to an unlikely relationship between the two — until the young woman discovers her elder might not be all that she seems.",
+			"release_date": "2019-02-28"
+		},
+		{
+			"vote_count": 3,
+			"id": 504608,
+			"video": false,
+			"vote_average": 2.3,
+			"title": "Rocketman",
+			"popularity": 40.707,
+			"poster_path": "/f4FF18ia7yTvHf2izNrHqBmgH8U.jpg",
+			"original_language": "en",
+			"original_title": "Rocketman",
+			"genre_ids": [
+				10402,
+				18
+			],
+			"backdrop_path": "/oAr5bgf49vxga9etWoQpAeRMvhp.jpg",
+			"adult": false,
+			"overview": "The story of Elton John's life, from his years as a prodigy at the Royal Academy of Music through his influential and enduring musical partnership with Bernie Taupin.",
+			"release_date": "2019-05-22"
+		},
+		{
+			"vote_count": 365,
+			"id": 412988,
+			"video": false,
+			"vote_average": 5.7,
+			"title": "The Happytime Murders",
+			"popularity": 35.839,
+			"poster_path": "/rWxkur51srfVnMn2QOFjE7mbq6h.jpg",
+			"original_language": "en",
+			"original_title": "The Happytime Murders",
+			"genre_ids": [
+				28,
+				35,
+				80
+			],
+			"backdrop_path": "/gqemVzi13T4oB95EBufIxqafSCl.jpg",
+			"adult": false,
+			"overview": "In a world where human beings and puppets live together, when the members of the cast of a children's television show aired during the 1990s begin to get murdered one by one, puppet Phil Philips, a former LAPD detective who fell in disgrace and turned into a private eye, takes on the case at the request of his old boss in order to assist detective Edwards, who was his partner in the past.",
+			"release_date": "2018-08-22"
+		},
+		{
+			"vote_count": 0,
+			"id": 373571,
+			"video": false,
+			"vote_average": 0,
+			"title": "Godzilla: King of the Monsters",
+			"popularity": 34.455,
+			"poster_path": "/pU3bnutJU91u3b4IeRPQTOP8jhV.jpg",
+			"original_language": "en",
+			"original_title": "Godzilla: King of the Monsters",
+			"genre_ids": [
+				28,
+				878,
+				53
+			],
+			"backdrop_path": "/mzRJpkWPjXdXak0WCc8ZxVH4hug.jpg",
+			"adult": false,
+			"overview": "The new story follows the heroic efforts of the crypto-zoological agency Monarch as its members face off against a battery of god-sized monsters, including the mighty Godzilla, who collides with Mothra, Rodan, and his ultimate nemesis, the three-headed King Ghidorah. When these ancient super-species—thought to be mere myths—rise again, they all vie for supremacy, leaving humanity’s very existence hanging in the balance.",
+			"release_date": "2019-05-29"
+		},
+		{
+			"vote_count": 17,
+			"id": 468224,
+			"video": false,
+			"vote_average": 5.1,
+			"title": "Tolkien",
+			"popularity": 34.144,
+			"poster_path": "/5ElXRKi773koW0mAnRjpNTpgZXZ.jpg",
+			"original_language": "en",
+			"original_title": "Tolkien",
+			"genre_ids": [
+				18
+			],
+			"backdrop_path": "/wdw0KYwlIVu1VxESXFWM1x2z1dz.jpg",
+			"adult": false,
+			"overview": "Explore the formative years of the orphaned author as he finds friendship, love and artistic inspiration among a group of fellow outcasts at school. This takes him into the outbreak of World War I, which threatens to tear the “fellowship” apart. All of these experiences would inspire Tolkien to write his famous Middle-Earth novels.",
+			"release_date": "2019-05-03"
+		},
+		{
+			"vote_count": 0,
+			"id": 320288,
+			"video": false,
+			"vote_average": 0,
+			"title": "Dark Phoenix",
+			"popularity": 33.887,
+			"poster_path": "/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg",
+			"original_language": "en",
+			"original_title": "Dark Phoenix",
+			"genre_ids": [
+				28,
+				878
+			],
+			"backdrop_path": "/A2oPzeKjSpCovYLqoDDXFbrJgyS.jpg",
+			"adult": false,
+			"overview": "The X-Men face their most formidable and powerful foe when one of their own, Jean Grey, starts to spiral out of control. During a rescue mission in outer space, Jean is nearly killed when she's hit by a mysterious cosmic force. Once she returns home, this force not only makes her infinitely more powerful, but far more unstable. The X-Men must now band together to save her soul and battle aliens that want to use Grey's new abilities to rule the galaxy.",
+			"release_date": "2019-06-05"
+		},
+		{
+			"vote_count": 126,
+			"id": 376865,
+			"video": false,
+			"vote_average": 5.7,
+			"title": "High Life",
+			"popularity": 31.635,
+			"poster_path": "/wElOvH7H6sLElsTOLu1MY6oWRUx.jpg",
+			"original_language": "en",
+			"original_title": "High Life",
+			"genre_ids": [
+				878,
+				18,
+				9648,
+				53
+			],
+			"backdrop_path": "/6gHdAO1Lvk9bjzhY4hX3wVRkAhF.jpg",
+			"adult": false,
+			"overview": "Monte and his baby daughter are the last survivors of a damned and dangerous mission to the outer reaches of the solar system. They must now rely on each other to survive as they hurtle toward the oblivion of a black hole.",
+			"release_date": "2018-11-07"
+		},
+		{
+			"vote_count": 26,
+			"id": 431075,
+			"video": false,
+			"vote_average": 5.4,
+			"title": "Polaroid",
+			"popularity": 31.561,
+			"poster_path": "/3ExDhZAqaSQaUNka4CDkvEaI72L.jpg",
+			"original_language": "en",
+			"original_title": "Polaroid",
+			"genre_ids": [
+				27,
+				18,
+				53
+			],
+			"backdrop_path": "/nzMdjuUZ6LR3XheCG5VGwm5vYEY.jpg",
+			"adult": false,
+			"overview": "High school loner Bird Fitcher has no idea what dark secrets are tied to the mysterious Polaroid vintage camera she stumbles upon, but it doesn't take long to discover that those who have their picture taken meet a tragic end. Bird and her friends must survive one more night as they race to solve the mystery of the haunted Polaroid before it kills them all.",
+			"release_date": "2019-01-10"
+		},
+		{
+			"vote_count": 283,
+			"id": 491584,
+			"video": false,
+			"vote_average": 7.4,
+			"title": "Burning",
+			"popularity": 29.898,
+			"poster_path": "/4NScXB4cx4cjN8hBF6Rh8OvAdAc.jpg",
+			"original_language": "ko",
+			"original_title": "버닝",
+			"genre_ids": [
+				9648,
+				18,
+				53
+			],
+			"backdrop_path": "/p4JvZZFonKPvIeXZ1c4xkJD8Ty7.jpg",
+			"adult": false,
+			"overview": "Deliveryman Jongsu is out on a job when he runs into Haemi, a girl who once lived in his neighborhood. She asks if he'd mind looking after her cat while she's away on a trip to Africa. On her return she introduces to Jongsu an enigmatic young man named Ben, who she met during her trip. And one day Ben tells Jongsu about his most unusual hobby...",
+			"release_date": "2018-05-17"
+		},
+		{
+			"vote_count": 7683,
+			"id": 152601,
+			"video": false,
+			"vote_average": 7.9,
+			"title": "Her",
+			"popularity": 27.187,
+			"poster_path": "/fsoTLnUXEUTNuVCBxAJMY0HPPd.jpg",
+			"original_language": "en",
+			"original_title": "Her",
+			"genre_ids": [
+				10749,
+				878,
+				18
+			],
+			"backdrop_path": "/4f4tWe6uhwtuKMygfIAytR2W0pj.jpg",
+			"adult": false,
+			"overview": "In the not so distant future, Theodore, a lonely writer purchases a newly developed operating system designed to meet the user's every needs. To Theodore's surprise, a romantic relationship develops between him and his operating system. This unconventional love story blends science fiction and romance in a sweet tale that explores the nature of love and the ways that technology isolates and connects us all.",
+			"release_date": "2013-12-18"
+		},
+		{
+			"vote_count": 69,
+			"id": 459992,
+			"video": false,
+			"vote_average": 6.8,
+			"title": "Long Shot",
+			"popularity": 26.948,
+			"poster_path": "/m2ttWZ8rMRwIMT7zA48Jo6mTkDS.jpg",
+			"original_language": "en",
+			"original_title": "Long Shot",
+			"genre_ids": [
+				35,
+				10749
+			],
+			"backdrop_path": "/88r25ghJzVYKq0vaOApqEOZsQlD.jpg",
+			"adult": false,
+			"overview": "When Fred Flarsky reunites with his first crush, one of the most influential women in the world, Charlotte Field, he charms her. As she prepares to make a run for the Presidency, Charlotte hires Fred as her speechwriter and sparks fly.",
+			"release_date": "2019-05-02"
+		}
+	],
+	"page": 1,
+	"total_results": 330,
+	"dates": {
+		"maximum": "2019-06-14",
+		"minimum": "2019-05-20"
+	},
+	"total_pages": 666
+}
