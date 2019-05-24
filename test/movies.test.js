@@ -31,24 +31,37 @@ describe('Movies Controller API', function() {
       .reply(200, mockMoviesSearchResult)
   })
 
-  it('GET Upcoming movies', () => {
+  it('should get upcoming movies', () => {
     return movieApi.upcoming()
       .then(movies => {
         assert.deepEqual(movies, mockUpcomingMovies)
       })
   })
 
-  it('GET movie details', () => {
+  it('should get movie details', () => {
     return movieApi.details(mockMovieId)
       .then(movie => {
         assert.deepEqual(movie, mockMovieDetails)
       })
   })
 
-  it('GET movies by name', () => {
+  it('should search movies by name', () => {
     return movieApi.search(mockMoviesSearch)
       .then(movies => {
         assert.deepEqual(movies, mockMoviesSearchResult)
+      })
+  })
+
+  it('should map genres ids to genres names', () => {
+    return movieApi.upcoming()
+      .then(result => movieApi.mapMoviesGenres(result.results))
+      .then(movies => {
+        [...movies]
+          .forEach(movie => 
+            [...movie.genre_ids]
+              .forEach(
+                genreId=>assert([...movie.genres].includes(movieApi.mapGenreIdToName(genreId)
+                ))))
       })
   })
 })
