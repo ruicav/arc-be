@@ -10,9 +10,12 @@ const mapGenreIdToName = genreId => genreIdToNameMap.get(String(genreId))
 const formatImagePath = movie => ({ ...movie, image_path: `${baseImageURL+quality+movie.poster_path}`})
 
 const movieApi = {
-  upcoming: () => {
+  upcoming: (page) => {
     return axios.get(
-      '/movie/upcoming'
+      '/movie/upcoming',
+      {
+        params: {page}
+      }
     )
       .then(response => {
         return response.data
@@ -24,12 +27,13 @@ const movieApi = {
     )
       .then(response => response.data)
   },
-  search: (query) => {
+  search: (query, page) => {
     return axios.get(
       `/search/movie`,
       {
         params: {
-          'query': query
+          'query': query,
+          'page': page
         }
       }
     )
