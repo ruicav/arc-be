@@ -64,4 +64,10 @@ describe('Movies Controller API', function() {
                 ))))
       })
   })
+
+  it('should include image_pat in movies', () => {
+    return movieApi.upcoming()
+      .then(result => movieApi.includeImagePath(result.results))
+      .then(movies => [...movies].forEach(movie => assert(movieApi.formatImagePath(movie))))
+  })
 })

@@ -1,10 +1,13 @@
 const axios = require('axios')
 const genreIdToNameMap = require('../constants/genres')
+const { baseImageURL, quality } = require('../constants/imagePath')
 axios.defaults.baseURL = 'https://api.themoviedb.org/3'
 axios.defaults.params = {}
 axios.defaults.params['api_key'] = ''
 
+
 const mapGenreIdToName = genreId => genreIdToNameMap.get(genreId)
+const formatImagePath = movie => ({ ...movie, image_path: `${baseImageURL+quality+movie.poster_path}`})
 
 const movieApi = {
   upcoming: () => {
@@ -37,7 +40,10 @@ const movieApi = {
     [...movies].map(movie => ({
       ...movie,
       genres: [...movie.genre_ids].map(id=> mapGenreIdToName(id))
-    }))
+    })),
+  formatImagePath,
+  includeImagePath: movies => 
+    [...movies].map(movie => ({...movie, image_path: formatImagePath(movie)}))
 }
 
 module.exports = movieApi
