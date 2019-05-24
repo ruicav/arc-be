@@ -6,7 +6,7 @@ const mockUpcomingMovies = require('./constants/mockUpcomingMovies.json')
 const mockMovieDetails = require('./constants/mockMovieDetails.json')
 const mockMoviesSearchResult = require('./constants/mockMovieSearch.json')
 
-describe('Movies Controller API', function() {
+describe('Movies API', function() {
   const movieDbURL = 'https://api.themoviedb.org/3'
 
   const mockMovieId = 458156
