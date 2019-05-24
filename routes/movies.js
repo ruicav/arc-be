@@ -5,6 +5,8 @@ const movieApi = require('../movieApi/movieApi')
 
 router.get('/upcoming', (req, res, next) => {
   movieApi.upcoming()
+    .then(result => ({...result, results: movieApi.mapMoviesGenres(result.results)}))
+    .then(result => movieApi.includeImagePath(result.results))
     .then(movies => res.status(200).json(movies))
 })
 
