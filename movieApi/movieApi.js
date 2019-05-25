@@ -3,7 +3,7 @@ const genreIdToNameMap = require('../constants/genreIdToNameMap')
 const { baseImageURL, quality } = require('../constants/imagePath')
 axios.defaults.baseURL = 'https://api.themoviedb.org/3'
 axios.defaults.params = {}
-axios.defaults.params['api_key'] = '1f54bd990f1cdfb230adb312546d765d'
+axios.defaults.params['api_key'] = process.env.API_KEY || ''
 
 
 const mapGenreIdToName = genreId => genreIdToNameMap.get(String(genreId))
